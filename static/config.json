@@ -1,9 +1,8 @@
 {
-    "windowTitle": "Kiwi IRC - The web IRC client",
-    "startupScreen": "welcome",
-    "kiwiServer": "https://localdev.clients.kiwiirc.com/webirc/kiwiirc/",
-    "restricted": false,
-    "theme": "Default",
+    "windowTitle": "An Extra Chat :) ",
+    "startupScreen": "connect",
+    "restricted": true,
+    "theme": "Dark",
     "themes": [
         { "name": "Default", "url": "static/themes/default" },
         { "name": "Dark", "url": "static/themes/dark" },
@@ -16,8 +15,11 @@
         { "name": "Elite", "url": "static/themes/elite" }
     ],
     "startupOptions" : {
-        "channel": "#kiwiirc-default",
-        "nick": "kiwi-n?"
+        "server": "irc.libera.chat",
+        "port": 6697,
+        "tls": true,
+        "channel": "Its-An-Extra-Chat",
+        "nick": "chat_user_?"
     },
     "embedly": {
         "key": ""
