@@ -1,6 +1,6 @@
 {
     "windowTitle": "An Extra Chat :) ",
-    "startupScreen": "connect",
+    "startupScreen": "welcome",
     "restricted": true,
     "theme": "Dark",
     "themes": [
