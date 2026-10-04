@@ -18,7 +18,7 @@
         "server": "irc.libera.chat",
         "port": 6697,
         "tls": true,
-        "channel": "Its-An-Extra-Chat",
+        "channel": "#Its-An-Extra-Chat",
         "nick": "chat_user_?"
     },
     "embedly": {
