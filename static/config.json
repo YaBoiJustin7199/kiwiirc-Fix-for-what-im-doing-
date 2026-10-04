@@ -1,6 +1,7 @@
 {
     "windowTitle": "An Extra Chat :) ",
     "startupScreen": "welcome",
+    "kiwiServer": "https://kiwiirc.com/client/",
     "restricted": true,
     "theme": "Dark",
     "themes": [
